@@ -6,5 +6,5 @@ The complete code, experimental setup, and result analysis will be fully open-so
 
 # Current Progress
 - [ ]Core algorithm design and verification
-- [ ]Full code open-sourcing (pending paper acceptance
+- [ ]Full code open-sourcing (pending paper acceptance)
 - [ ]Release of experimental documentation and demo
