@@ -1,4 +1,4 @@
-# TexDiff-AWIR A Texture-Guided Diffusion Model for High-Fidelity Adverse Weather Image Restoration
+# TexDiff-AWIR: A Texture-Guided Diffusion Model for High-Fidelity Adverse Weather Image Restoration
 
 This project focuses on the research of underwater image restoration.
 
